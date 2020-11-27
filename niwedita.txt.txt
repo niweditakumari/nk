@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 koki
+=======
+kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+>>>>>>> 537ddfe569d7afc550d9b3780b1d2bc4511d32d2
